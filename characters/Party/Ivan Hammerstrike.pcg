@@ -101,7 +101,7 @@ SKILL:Escape Artist|OUTPUTORDER:22|
 SKILL:Escape Artist (Escape bonds/grapple)|OUTPUTORDER:23|
 SKILL:Fly|OUTPUTORDER:24|
 SKILL:Fly (Perform (Dance))|OUTPUTORDER:25|
-SKILL:Handle Animal|OUTPUTORDER:26|CLASSBOUGHT:[CLASS:Fighter|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Handle Animal|OUTPUTORDER:27|CLASSBOUGHT:[CLASS:Fighter|RANKS:1.0|COST:1|CLASSSKILL:Y]
 SKILL:Handle Animal (Perform (Percussion Instruments))|OUTPUTORDER:28|
 SKILL:Handle Animal (Perform (Wind Instruments))|OUTPUTORDER:29|
 SKILL:Heal|OUTPUTORDER:30|
@@ -129,7 +129,7 @@ SKILL:Untrained Intelligence|OUTPUTORDER:54|
 SKILL:Untrained Strength|OUTPUTORDER:55|
 SKILL:Untrained Wisdom|OUTPUTORDER:56|
 SKILL:Untrained ~ Disable Device|OUTPUTORDER:19|
-SKILL:Untrained ~ Handle Animal|OUTPUTORDER:27|
+SKILL:Untrained ~ Handle Animal|OUTPUTORDER:26|
 SKILL:Untrained ~ Linguistics|OUTPUTORDER:37|
 SKILL:Untrained ~ Sleight of Hand|OUTPUTORDER:47|
 SKILL:Untrained ~ Spellcraft|OUTPUTORDER:48|
