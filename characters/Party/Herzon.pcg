@@ -2,8 +2,8 @@ PCGVERSION:2.0
 
 # System Information
 CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Magic|CAMPAIGN:Ultimate Equipment|CAMPAIGN:Advanced Race Guide|CAMPAIGN:Inner Sea World Guide|CAMPAIGN:Pathfinder RPG for Game Masters|CAMPAIGN:Dungeoneer's Handbook|CAMPAIGN:Dwarves of Golarion|CAMPAIGN:Council of Thieves Player's Guide|CAMPAIGN:Critical Fumble Deck|CAMPAIGN:Faiths of Balance|CAMPAIGN:Faiths of Corruption|CAMPAIGN:Faiths of Purity|CAMPAIGN:Goblins of Golarion|CAMPAIGN:Halflings of Golarion|CAMPAIGN:Orcs of Golarion|CAMPAIGN:Inner Sea Primer|CAMPAIGN:Pirates of the Inner Sea|CAMPAIGN:Gnomes of Golarion|CAMPAIGN:DSP - Ultimate Psionics|CAMPAIGN:My Pathfinder Campaign
-VERSION:6.04.01
-ROLLMETHOD:0|EXPRESSION:0
+VERSION:6.05.00
+ROLLMETHOD:1|EXPRESSION:10
 PURCHASEPOINTS:N
 CHARACTERTYPE:PC
 PREVIEWSHEET:Standard.htm
@@ -218,7 +218,7 @@ SPELLNAME:Mind Thrust|TIMES:1|CLASS:Psion|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:
 SPELLNAME:Natural Healing|TIMES:1|CLASS:Psion|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Psion]
 SPELLNAME:Vigor|TIMES:1|CLASS:Psion|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Psion]
 SPELLNAME:Vim|TIMES:1|CLASS:Psion|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Psion]
-SPELLLIST:Psion|CLASS.Psion|CLASS.Egoist
+SPELLLIST:Psion|CLASS.Egoist|CLASS.Psion
 
 # Character Description/Bio/History
 CHARACTERBIO:Herzon has always been drawn to pain, since he discovered his own talents for egoism at such a young age, and understanding how the use of these powers cause him pain.  The pain of the powers is such that he sought out and became a follower of Zon-Kuthon, being told that the gifts were to make him a rare "Chronicler", a witness to pain.  He exists outside the church hierarchy.  He has taken a vow of silence, as any words he might utter may be tainted with expressions of pain. He journals all experiences involving his own pain, and the pain of others.&nl;&nl;He ritualistically inflicts pain on himself for 30 minutes a day, usually before bed.  He also wears his "Joyous Reminders", bracers with backwards thorns digging into his flesh.&nl;&nl;He views any creature (such as undead) that has lost the ability to feel pain with extreme disgust.
