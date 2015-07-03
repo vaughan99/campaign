@@ -1,0 +1,228 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Magic|CAMPAIGN:Ultimate Equipment|CAMPAIGN:Advanced Race Guide|CAMPAIGN:Inner Sea World Guide|CAMPAIGN:Pathfinder RPG for Game Masters|CAMPAIGN:Dungeoneer's Handbook|CAMPAIGN:Dwarves of Golarion|CAMPAIGN:Council of Thieves Player's Guide|CAMPAIGN:Critical Fumble Deck|CAMPAIGN:Faiths of Balance|CAMPAIGN:Faiths of Corruption|CAMPAIGN:Faiths of Purity|CAMPAIGN:Goblins of Golarion|CAMPAIGN:Halflings of Golarion|CAMPAIGN:Orcs of Golarion|CAMPAIGN:Inner Sea Primer|CAMPAIGN:Pirates of the Inner Sea|CAMPAIGN:Gnomes of Golarion|CAMPAIGN:DSP - Ultimate Psionics|CAMPAIGN:My Pathfinder Campaign
+VERSION:6.05.00
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm
+POOLPOINTS:0
+POOLPOINTSAVAIL:25
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Zova Hawk-Dancer
+TABNAME:
+PLAYERNAME:
+HEIGHT:65
+WEIGHT:130
+AGE:24
+GENDER:Female
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:12
+STAT:CON|SCORE:12
+STAT:INT|SCORE:11
+STAT:WIS|SCORE:18
+STAT:CHA|SCORE:14
+ALIGN:TN
+RACE:Human
+
+# Character Class(es)
+CLASS:Druid|LEVEL:1|SKILLPOOL:0
+CLASSABILITIESLEVEL:Druid=1|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:1420
+EXPERIENCETABLE:Medium
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:FACE_5]
+TEMPLATESAPPLIED:[NAME:REACH_5]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity (Shoanti)]
+TEMPLATESAPPLIED:[NAME:Regional Affinity (Varisia)]
+
+# Character Region
+REGION:Varisia
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Acrobatics (Perform (Dance))|OUTPUTORDER:2|
+SKILL:Appraise|OUTPUTORDER:3|
+SKILL:Bluff|OUTPUTORDER:4|
+SKILL:Bluff (Fool someone)|OUTPUTORDER:5|
+SKILL:Bluff (Pass messages)|OUTPUTORDER:6|
+SKILL:Bluff (Perform (Act))|OUTPUTORDER:7|
+SKILL:Bluff (Perform (Comedy))|OUTPUTORDER:8|
+SKILL:Bluff (Perform (Sing))|OUTPUTORDER:9|
+SKILL:Bluff (Perform (String Instruments))|OUTPUTORDER:10|
+SKILL:Climb|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Druid|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Craft (Untrained)|OUTPUTORDER:12|
+SKILL:Diplomacy|OUTPUTORDER:13|
+SKILL:Diplomacy (Perform (Keyboard Instruments))|OUTPUTORDER:14|
+SKILL:Diplomacy (Perform (Oratory))|OUTPUTORDER:15|
+SKILL:Diplomacy (Perform (String Instruments))|OUTPUTORDER:16|
+SKILL:Diplomacy (Perform (Wind Instruments))|OUTPUTORDER:17|
+SKILL:Disguise|OUTPUTORDER:19|
+SKILL:Disguise (Perform (Act))|OUTPUTORDER:20|
+SKILL:Escape Artist|OUTPUTORDER:21|
+SKILL:Escape Artist (Escape bonds/grapple)|OUTPUTORDER:22|
+SKILL:Fly|OUTPUTORDER:23|
+SKILL:Fly (Perform (Dance))|OUTPUTORDER:24|
+SKILL:Handle Animal|OUTPUTORDER:25|CLASSBOUGHT:[CLASS:Druid|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Handle Animal (Perform (Percussion Instruments))|OUTPUTORDER:27|
+SKILL:Handle Animal (Perform (Wind Instruments))|OUTPUTORDER:28|
+SKILL:Heal|OUTPUTORDER:29|CLASSBOUGHT:[CLASS:Druid|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate|OUTPUTORDER:30|
+SKILL:Intimidate (Perform (Comedy))|OUTPUTORDER:31|
+SKILL:Intimidate (Perform (Keyboard Instruments))|OUTPUTORDER:32|
+SKILL:Intimidate (Perform (Percussion Instruments))|OUTPUTORDER:33|
+SKILL:Knowledge (Nature)|OUTPUTORDER:34|CLASSBOUGHT:[CLASS:Druid|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Untrained)|OUTPUTORDER:35|
+SKILL:Perception|OUTPUTORDER:37|
+SKILL:Perform (Untrained)|OUTPUTORDER:38|
+SKILL:Profession (Untrained)|OUTPUTORDER:39|
+SKILL:Ride|OUTPUTORDER:40|
+SKILL:Samurai Mount|OUTPUTORDER:41|
+SKILL:Sense Motive|OUTPUTORDER:42|
+SKILL:Sense Motive (Perform (Oratory))|OUTPUTORDER:43|
+SKILL:Sense Motive (Perform (Sing))|OUTPUTORDER:44|
+SKILL:Sense Motive (Resist feint)|OUTPUTORDER:45|
+SKILL:Stealth|OUTPUTORDER:48|
+SKILL:Survival|OUTPUTORDER:49|CLASSBOUGHT:[CLASS:Druid|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:50|
+SKILL:Untrained Charisma|OUTPUTORDER:51|
+SKILL:Untrained Dexterity|OUTPUTORDER:52|
+SKILL:Untrained Intelligence|OUTPUTORDER:53|
+SKILL:Untrained Strength|OUTPUTORDER:54|
+SKILL:Untrained Wisdom|OUTPUTORDER:55|
+SKILL:Untrained ~ Disable Device|OUTPUTORDER:18|
+SKILL:Untrained ~ Handle Animal|OUTPUTORDER:26|
+SKILL:Untrained ~ Linguistics|OUTPUTORDER:36|
+SKILL:Untrained ~ Sleight of Hand|OUTPUTORDER:46|
+SKILL:Untrained ~ Spellcraft|OUTPUTORDER:47|
+SKILL:Untrained ~ Use Magic Device|OUTPUTORDER:56|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Druidic|LANGUAGE:Shoanti
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Ability Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+2 Dexterity|TYPE:AbilityBonus
+USERPOOL:Ability Bonus|POOLPOINTS:0.0
+ABILITY:Druid Archetype|TYPE:NORMAL|CATEGORY:Archetype|KEY:Druid Archetype ~ Eagle Shaman|TYPE:Archetype.DruidArchetype.DruidThousandFaces.DruidVenomImmunity.DruidWildShape|DESC:A shaman with this totem calls upon the noble eagle, stern and proud, soaring high above the world with keen and pitiless eyes that miss nothing.
+ABILITY:Druid Archetype|TYPE:NORMAL|CATEGORY:Archetype|KEY:Druid Archetype ~ Storm Druid|TYPE:Archetype.DruidArchetype.DruidSpontaneousCasting.DruidWoodlandStride.DruidTracklessStep.DruidResistNaturesLure.DruidVenomImmunity.DruidThousandFaces.DruidNatureBond|DESC:While most druids focus their attention upon the rich earth and the bounty of nature that springs forth from it, the storm druid's eyes have ever been cast to the skies and the endless expanse of blue, channeling the most raw and untamed aspects of nature.
+USERPOOL:Druid Archetype|POOLPOINTS:0.0
+ABILITY:Druid Domain|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Druid Domain ~ Air|TYPE:DruidDomainSelection.SpecialQuality|DESC:You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage.
+USERPOOL:Druid Domain|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Martial Weapon Proficiency|APPLIEDTO:Longbow|TYPE:Combat.RakshasaBloodline.MartialWeaponProficiency|DESC:You understand how to use your chosen martial weapon in combat.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Point-Blank Shot|TYPE:Combat.FeyBloodline.StormbornBloodline|DESC:You are especially accurate when making ranged attacks against close target.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Druid|TYPE:FavoredClass
+USERPOOL:Favored Class|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Skills Creature Attitude|APPLIEDTO:|TYPE:SpecialQuality.FavoredClassBonus.FavoredClassDruid|DESC:Add a +1/2 bonus on Diplomacy and Intimidate checks to change a creature's attitude.
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:Human Ethnicity|TYPE:NORMAL|CATEGORY:Background|KEY:Shoanti|TYPE:HumanEthnicity
+USERPOOL:Human Ethnicity|POOLPOINTS:0.0
+ABILITY:Nature Bond|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Nature's Bond ~ Druid Domain|TYPE:DruidClassFeatures.SpecialQuality.Extraordinary.NatureBond.DruidDomain.CF_Domain|DESC:You may not choose an animal companion. You must choose the Air or Weather domain, or the Cloud, Storm, or Wind subdomain.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Storm Druid|DESC:If choosing a domain, the bear shaman must choose from the Animal, Earth, Protection, and Strength domains.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Bear Shaman|DESC:If choosing a domain, the eagle shaman must choose from the Air, Animal, Nobility, and Weather domains.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Eagle Shaman|DESC:If choosing a domain, the lion shaman must choose from the Animal, Glory, Nobility, and Sun domains.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Lion Druid|DESC:If choosing a domain, the serpent shaman must choose from the Animal, Charm, Trickery, and Water domains.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Serpent Shaman|DESC:If choosing a domain, the wolf shaman must choose from the Animal, Community, Liberation, and Travel domains.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Wolf Shaman
+USERPOOL:Nature Bond|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:Varisia|TYPE:Region|DESC:Wild Frontier Region
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+ABILITY:Shoanti Clan|TYPE:NORMAL|CATEGORY:Background|KEY:Shriikirri-Quah|TYPE:ShoantiClan|DESC:You are a member of the Shoanti Hawk Clan
+USERPOOL:Shoanti Clan|POOLPOINTS:0.0
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Birthmark|TYPE:Trait.BasicTrait.FaithTrait|DESC:You were born with a strange birthmark that looks very similar to the holy symbol of the god you chose to worship later in life. You gain a +2 trait bonus on all saving throws against charm and compulsion effects as a result.
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Courageous|TYPE:Trait.BasicTrait.CombatTrait|DESC:Your childhood was brutal, yet you persevered primarily through force of will and the hope that no matter how hard things might get, as long as you kept a level head you'd make it through. You gain a +2 trait bonus on saving throws against fear effects.
+USERPOOL:Traits|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Dagger|WEAPON:Dart|WEAPON:Grapple|WEAPON:Longbow|WEAPON:Quarterstaff|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shortspear|WEAPON:Sickle]
+WEAPONPROF:[WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Splash Weapon|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:347.50
+EQUIPNAME:Arrow|OUTPUTORDER:0|COST:0.05|WT:0.15|QUANTITY:37.0|NOTE:|CUSTOMIZATION:[BASEITEM:Arrow|DATA:NAME=Arrow$EQMOD=STEEL.WOOD]
+EQUIPNAME:Club|OUTPUTORDER:5|COST:0.0|WT:3.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Club|DATA:NAME=Club$EQMOD=WOOD]
+EQUIPNAME:Hide|OUTPUTORDER:3|COST:15|WT:25.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Longbow (Composite/+1)|OUTPUTORDER:1|COST:200.0|WT:3.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Longbow (Composite)|DATA:NAME=Longbow (Composite/+1)$EQMOD=WOOD.BOWSTR&pipe;+1]
+EQUIPNAME:Masterwork Dagger|OUTPUTORDER:0|COST:302.0|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Masterwork Dagger$EQMOD=STEEL.MWORKW]
+EQUIPNAME:Vestments (Cleric's)|OUTPUTORDER:2|COST:0|WT:6.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Vestments (Cleric's)|DATA:NAME=Vestments (Cleric's)$COSTMOD=-5]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.02|VALUE:Vestments (Cleric's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.03|VALUE:Longbow (Composite/+1)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.04|VALUE:Hide|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.05|VALUE:Club|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:The Green Mother|DEITYDOMAINS:[DOMAIN:Charm|DOMAIN:Earth|DOMAIN:Evil|DOMAIN:Plant|DOMAIN:Caves Subdomain|DOMAIN:Decay Subdomain|DOMAIN:Growth Subdomain|DOMAIN:Lust Subdomain]|ALIGNALLOW:|DESC:Eldest lord of carnivorous plants, intrigue, seduction|HOLYITEM:|DEITYFAVWEAP:[WEAPON:Sickle]|DEITYALIGN:NE
+DOMAIN:Air|DOMAINGRANTS:You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage.|SOURCE:[TYPE:PCClass|NAME:Druid|LEVEL:1]
+
+# Character Spells Information
+SPELLBOOK:Prepared Spells|TYPE:2
+SPELLNAME:Create Water|TIMES:1|CLASS:Druid|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Druid]
+SPELLNAME:Cure Light Wounds|TIMES:1|CLASS:Druid|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Druid]
+SPELLNAME:Light|TIMES:1|CLASS:Druid|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Druid]
+SPELLNAME:Obscuring Mist|TIMES:1|CLASS:Druid|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:DOMAIN|NAME:Air]
+SPELLNAME:Read Weather|TIMES:1|CLASS:Druid|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Druid]
+SPELLNAME:Virtue|TIMES:1|CLASS:Druid|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Druid]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+
